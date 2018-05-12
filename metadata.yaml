@@ -1,0 +1,37 @@
+_repo: Daniel-Webster-for-Young-AmericansComprising-the-greatest-speeches-of-the-defender-of-the-Con__41300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Daniel
+    birthdate: 1782
+    deathdate: 1852
+    gutenberg_agent_id: '2512'
+    url: http://www.gutenberg.org/2009/agents/2512
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Webster
+  editor:
+    agent_name: Richardson, Charles F. (Charles Francis)
+    alias: Richardson, Charles Francis
+    birthdate: 1851
+    deathdate: 1913
+    gutenberg_agent_id: '41101'
+    url: http://www.gutenberg.org/2009/agents/41101
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcsh 'Readers'
+- !lcc 'E300'
+title: 'Daniel Webster for Young Americans
+
+  Comprising the greatest speeches of the defender of the Constitution'
+url: http://www.gutenberg.org/ebooks/41300
